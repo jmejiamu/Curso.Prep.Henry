@@ -1,0 +1,5 @@
+Variables:  Place holder for string, numbers, or Boolean (true or false) or a place where you can save words.
+String:  Strings are words enclosed by quotes either single ''  or double " "
+Function: It is a block of code that can be reusable. 
+Declaration if : It allows to test a values (strings or numbers)  
+Boolean Values(true, false): When you lie to someone thats false.
