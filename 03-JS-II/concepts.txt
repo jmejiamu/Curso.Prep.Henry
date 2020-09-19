@@ -1,0 +1,2 @@
+for: The for loop will iterate over and over. It will be done until the test is equal to true.
+&&, ||, !: Logical operators && operator both  the conditions must be true. || operator one condition must be true. ! operator will change to the opposite 
