@@ -1,0 +1,1 @@
+Arrays: It is a collection of data(String, Numbers, boolean..)
