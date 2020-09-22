@@ -1,0 +1,2 @@
+prototype: adds feature(fuctions) from another object.
+class: It is a blue print to create objects. For example, plane of a house and the objects would be the components of the house(rooms, doors)
