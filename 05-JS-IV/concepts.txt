@@ -1,0 +1,6 @@
+Object: It is a collection of data made of keys and values called properties.
+Properties: it is collection of values in the object such as string, booleans, ints and floats.
+Method: This can hold different operation within the object and it can have access to any properties in the object.
+Loop for..in: it allows to iterate through object's values 
+Dot notation vs bracket notation: Both are ways of accessing  properties in a object the implementation is different.
+for example Dot notation: objectName.propertyName and bracket notation: objectName[propertyName]
